@@ -30,4 +30,5 @@ ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJRR9xUVsvjBLP83CCZ7VF9O5Sqtfe22yT3WrJwTnMpj
 
 6. AWS Re Start Lab Check
 
-답)
+답)<img width="1258" height="590" alt="image" src="https://github.com/user-attachments/assets/8890fdce-f700-4162-ab18-efeebdc44fd5" />
+
