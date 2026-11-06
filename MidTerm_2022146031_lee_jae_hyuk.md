@@ -9,6 +9,11 @@
 
 답)![![alt text](image-1.png)](image.png)
 
+<img width="1289" height="431" alt="image" src="https://github.com/user-attachments/assets/c86a952c-c3f4-4e6a-a3ef-676626f3fba3" />
+<img width="1288" height="282" alt="image" src="https://github.com/user-attachments/assets/5f17bfc4-969e-4c84-8b7d-ea34526867df" />
+
+
+
 2. EC2 instance Domain name
 
 답)-bash: /home/ubuntu/.ssh/authorized_keysecho: Permission denied
